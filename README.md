@@ -1,0 +1,1 @@
+Test project to implement all Design Patterns in Typescript

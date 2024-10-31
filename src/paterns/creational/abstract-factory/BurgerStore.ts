@@ -1,7 +1,5 @@
 import {BurgerFactory} from "./BurgerFactory";
 import {Burger} from "./Burger";
-import {CheeseBurger} from "./CheeseBurger";
-import {DeluxeBurger} from "./DeluxeBurger";
 
 export class BurgerStore {
     private _factory: BurgerFactory;
